@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Apple Chancery", cursive;
+    text-shadow: 2px 2px #333333;
+}
+
+.contact{
+    float:right;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 30%;
+    width: 30%;
+}
+
+p {
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    font-family: "Apple Chancery", cursive;
+}
+
